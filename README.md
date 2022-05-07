@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mohammed alkindy
 - 👀 I’m interested in learning and developing code that interact with enviroment datasets and robotics
-- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on setting envoroment dataset collection
 - 📫 I could be reached by my email alkindymohammed@gmail.com
 
